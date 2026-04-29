@@ -1,0 +1,14 @@
+.DS_Store
+.venv/
+.vscode/
+__pycache__/
+*.pyc
+
+# Build outputs
+*.o
+*.out
+*.exe
+
+# Generated outputs
+apex_notebook_outputs/
+result/
